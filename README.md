@@ -1,5 +1,4 @@
-esri-100-lines-or-less-js-bees
+Street View Popup
 ==============================
 
-ESRI code challenge at the DevSummit to write an application in 100 lines of JavaScript code or less https://github.com/Esri/100-lines-or-less-js/tree/master/bees
-http://smcshinsky.github.io/esri-100-lines-or-less-js-bees/bees/bees.html
+Here is an application that shows the Esri Web App Builder with a Street View widget that opens in a popup inside the map.
